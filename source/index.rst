@@ -15,7 +15,7 @@ A NextFlow pipeline assembler for genomics.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Getting Started
+   :caption: 入门
 
    getting_started/overview
    getting_started/installation
@@ -24,7 +24,7 @@ A NextFlow pipeline assembler for genomics.
 
 .. toctree::
    :maxdepth: 1
-   :caption: User Guide
+   :caption: 用户指南
 
    user_guide/basic_usage
    user_guide/pipeline_building
@@ -36,7 +36,7 @@ A NextFlow pipeline assembler for genomics.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Developer Guide
+   :caption: 开发者指南
 
    devloper_guide/general_orientation
    devloper_guide/create_process

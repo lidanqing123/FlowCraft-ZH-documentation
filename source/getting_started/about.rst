@@ -1,4 +1,4 @@
-About
+关于
 =======
 
 FlowCraft is developed by the `Molecular Microbiology and Infection Unit (UMMI) <http://darwin.phyloviz.net/wiki/doku.php>` at the `Instituto de Medicina Molecular Joao Antunes <https://imm.medicina.ulisboa.pt/en/>`.

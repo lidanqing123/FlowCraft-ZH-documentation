@@ -1,18 +1,18 @@
-Overview
+概览
 =========
 
-What is Nextflow
+什么是Nextflow
 ------------------
 
 
-What FlowCraft does
+FlowCraft是干什么的
 --------------------
 
 
-Who is FlowCraft for
+Flowcraft是给谁用的 
 ---------------------
 
 
 
-Why not just write a Nextflow pipeline?
+为什么不只写一个Nextflow pipeline?
 ----------------------------------------
