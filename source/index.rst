@@ -14,7 +14,7 @@ FlowCraft 中文文档
 A NextFlow pipeline assembler for genomics.
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Getting Started
 
    getting_started/overview
@@ -23,7 +23,7 @@ A NextFlow pipeline assembler for genomics.
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: User Guide
 
    user_guide/basic_usage
@@ -35,7 +35,7 @@ A NextFlow pipeline assembler for genomics.
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Developer Guide
 
    devloper_guide/general_orientation
@@ -49,7 +49,7 @@ A NextFlow pipeline assembler for genomics.
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Source API
 
    source_api/flowcraft
