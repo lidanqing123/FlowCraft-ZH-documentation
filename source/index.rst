@@ -13,6 +13,14 @@ FlowCraft 中文文档
 
 A NextFlow pipeline assembler for genomics.
 
+
+:作者: `ODiogoSilva, tiagofilipe12, cimendes, etc. <https://github.com/assemblerflow/flowcraft/graphs/contributors>`_
+:翻译: `lidanqing <https://github.com/lidanqing123>`_ , 邵明辉, 刘肖川, 许洪柱
+
+.. Note::
+   
+   这不是一个官方的文档.  官方的文档可以 `在此获得 <https://flowcraft.readthedocs.io/en/latest/>`_。
+
 .. toctree::
    :maxdepth: 1
    :caption: 入门
